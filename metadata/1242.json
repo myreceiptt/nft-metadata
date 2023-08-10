@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1242",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1242.png",
+  "dna": "c032c5e3a4676be1333a27d024632b9770bd26a3",
+  "edition": 1242,
+  "date": 1668803987852,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Face",
+      "value": "NewBananowNov2022_0002s_0014_toxicated"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butterflies"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

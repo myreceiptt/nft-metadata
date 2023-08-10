@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #210",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/210.png",
+  "dna": "2b15896a6008c3062a11894720e4410250f55054",
+  "edition": 210,
+  "date": 1668803655014,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Wave_Rays"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glitter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

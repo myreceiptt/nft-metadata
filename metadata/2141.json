@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2141",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2141.png",
+  "dna": "719d75d522b21b4a3b5dff7d8e4bc1dfbd0c1222",
+  "edition": 2141,
+  "date": 1668804291755,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pillow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lovely"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue_shirt"
+    }
+  ],
+  "compiler": "Inamotion"
+}

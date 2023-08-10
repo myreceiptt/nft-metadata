@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #801",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/801.png",
+  "dna": "3dc78c1007ac4edcc0726fb1b731de53d25ea8d6",
+  "edition": 801,
+  "date": 1668803847815,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleepy_beauty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leaf"
+    }
+  ],
+  "compiler": "Inamotion"
+}

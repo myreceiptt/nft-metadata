@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #739",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/739.png",
+  "dna": "50bd8da617e0360f98c48afc4c8701f5ec46928a",
+  "edition": 739,
+  "date": 1668803826706,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Vintage_geometric"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Aha"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Coal"
+    }
+  ],
+  "compiler": "Inamotion"
+}

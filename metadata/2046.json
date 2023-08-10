@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2046",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2046.png",
+  "dna": "cc5c0fa8148946859e9728ed2786a58ba133ea4c",
+  "edition": 2046,
+  "date": 1668804251790,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Lemon_soda"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fur"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

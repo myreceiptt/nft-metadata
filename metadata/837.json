@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #837",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/837.png",
+  "dna": "ce9335cd68bcd954fbb2a38248709628f77eab6c",
+  "edition": 837,
+  "date": 1668803859509,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scratch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Aha"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Thorn"
+    }
+  ],
+  "compiler": "Inamotion"
+}

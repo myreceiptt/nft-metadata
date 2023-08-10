@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #251",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/251.png",
+  "dna": "7863256ee073b12f2a2ff7c1140c86331f7279e2",
+  "edition": 251,
+  "date": 1668803667936,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray_Agate"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Coal"
+    }
+  ],
+  "compiler": "Inamotion"
+}

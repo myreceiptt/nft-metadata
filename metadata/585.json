@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #585",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/585.png",
+  "dna": "b1bd2e9e90fac4f2ee2d7bcfce39a1dcd2475ce4",
+  "edition": 585,
+  "date": 1668803775712,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Coarse"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rasta"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

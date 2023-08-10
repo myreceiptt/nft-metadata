@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #222",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/222.png",
+  "dna": "e3db29d5edeafaa07f878ae79c85a63abeceba10",
+  "edition": 222,
+  "date": 1668803658900,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Noodle_Bowl"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Numb"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Thorn"
+    }
+  ],
+  "compiler": "Inamotion"
+}

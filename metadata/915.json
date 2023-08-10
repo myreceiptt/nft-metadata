@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #915",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/915.png",
+  "dna": "c7dbabe1d8b156d8eb375bf7bb5df281a85a3666",
+  "edition": 915,
+  "date": 1668803885074,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Noodle_Bowl"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

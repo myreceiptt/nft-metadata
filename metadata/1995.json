@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1995",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1995.png",
+  "dna": "5a0750fda10f9165b904884dfec707c73e8a639a",
+  "edition": 1995,
+  "date": 1668804233357,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #135",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/135.png",
+  "dna": "5a67c78d766e9f8380cffbfe7f905f4c34339447",
+  "edition": 135,
+  "date": 1668803631657,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cilok"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Seduce"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Line_wave"
+    }
+  ],
+  "compiler": "Inamotion"
+}

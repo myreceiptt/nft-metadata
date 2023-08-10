@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1907",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1907.png",
+  "dna": "e1bccb1ac82d0c957fef13c43fc85382e1c46cda",
+  "edition": 1907,
+  "date": 1668804203887,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Spies"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

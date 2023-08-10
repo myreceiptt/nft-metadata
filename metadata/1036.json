@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1036",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1036.png",
+  "dna": "9c4af04dac94f7b9900329f608998f026c449784",
+  "edition": 1036,
+  "date": 1668803922918,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Spies"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Whale_Tatoo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

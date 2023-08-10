@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2011",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2011.png",
+  "dna": "9034954b8f85282a393d92b7c9394bcc79394f5b",
+  "edition": 2011,
+  "date": 1668804239404,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cheesee"
+    }
+  ],
+  "compiler": "Inamotion"
+}

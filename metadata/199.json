@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #199",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/199.png",
+  "dna": "11caf7b96a1e97d84d6f34b679acc0815c2e4b13",
+  "edition": 199,
+  "date": 1668803651507,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frog_Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Aha"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

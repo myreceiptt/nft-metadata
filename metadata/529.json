@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #529",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/529.png",
+  "dna": "b0d9063d8a470b49de7ceb7a1f1de8e036d033d6",
+  "edition": 529,
+  "date": 1668803756924,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Wave_Rays"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #579",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/579.png",
+  "dna": "00f4373c6c6cfc72ec2cced82069e7e77f7e762a",
+  "edition": 579,
+  "date": 1668803773483,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coral_Reef"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cutted"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ice_cream"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1627",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1627.png",
+  "dna": "35b54f644673e59ce96ed483dbaef96437bfa761",
+  "edition": 1627,
+  "date": 1668804112474,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

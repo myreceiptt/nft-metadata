@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #964",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/964.png",
+  "dna": "fba6f691b8815eebadc300c19a81c841a053cf71",
+  "edition": 964,
+  "date": 1668803901573,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frog_Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Poisonous"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Snake_fruit"
+    }
+  ],
+  "compiler": "Inamotion"
+}

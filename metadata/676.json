@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #676",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/676.png",
+  "dna": "e69179f714c59bd6dbc0b2269c20aab463cbc34a",
+  "edition": 676,
+  "date": 1668803806855,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Army_tatoo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Toxicated"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fur"
+    }
+  ],
+  "compiler": "Inamotion"
+}

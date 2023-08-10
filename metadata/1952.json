@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1952",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1952.png",
+  "dna": "0bd74415dfaf3a035356e9bdf24fdda74c2b898e",
+  "edition": 1952,
+  "date": 1668804218939,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Face",
+      "value": "4eyes_monster"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fur"
+    }
+  ],
+  "compiler": "Inamotion"
+}

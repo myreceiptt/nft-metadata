@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #548",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/548.png",
+  "dna": "7b5b15e2717ef16cbe213a46ec7e61f3aee6274c",
+  "edition": 548,
+  "date": 1668803763258,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Handcuff"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

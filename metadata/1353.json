@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1353",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1353.png",
+  "dna": "95a268d0bac51632b8599eacfc032b380fe85f8d",
+  "edition": 1353,
+  "date": 1668804022613,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bee_Hive"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "Inamotion"
+}

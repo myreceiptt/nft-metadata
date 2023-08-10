@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1157",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1157.png",
+  "dna": "99ba06e23c03347bf8d7c87f64651167c304eb7d",
+  "edition": 1157,
+  "date": 1668803961512,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bee_Hive"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butter"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Line_wave"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1503",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1503.png",
+  "dna": "f1045c269763641c1216d4c5a6ca351a5df97daf",
+  "edition": 1503,
+  "date": 1668804072100,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

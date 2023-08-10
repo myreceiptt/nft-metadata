@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #575",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/575.png",
+  "dna": "580e1d824b2b8f7c67111b140bc58b8bb390ef4a",
+  "edition": 575,
+  "date": 1668803771883,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frog_Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lovely"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Octopus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

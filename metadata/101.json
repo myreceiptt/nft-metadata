@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #101",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/101.png",
+  "dna": "5ef01ce97c8f3e3546f63246c001e61a85e8881d",
+  "edition": 101,
+  "date": 1668803621105,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Lemon_soda"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wood"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Aha"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Barb_wire"
+    }
+  ],
+  "compiler": "Inamotion"
+}

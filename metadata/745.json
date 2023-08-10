@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #745",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/745.png",
+  "dna": "ff3dddba78547da318402d168d838e521033dc3a",
+  "edition": 745,
+  "date": 1668803828694,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Face",
+      "value": "4eyes_monster"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Marmer"
+    }
+  ],
+  "compiler": "Inamotion"
+}

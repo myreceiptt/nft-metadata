@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1903",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1903.png",
+  "dna": "ea30f62eaddee30da94803152ccf21ee8973514d",
+  "edition": 1903,
+  "date": 1668804202546,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Toxicated"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

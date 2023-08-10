@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #702",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/702.png",
+  "dna": "efd27de756e61bc823889a351fcf704a677acfc6",
+  "edition": 702,
+  "date": 1668803815014,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cutted"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleeping_beauty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

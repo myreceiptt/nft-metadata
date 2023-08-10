@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #630",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/630.png",
+  "dna": "9afe9356a141811900c0ce92b916d4c7e1997450",
+  "edition": 630,
+  "date": 1668803790603,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Astronaut"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butter"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

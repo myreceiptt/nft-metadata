@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2023",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2023.png",
+  "dna": "6582b9a3cf560b58b2edde0e1b02bfb5be8e6952",
+  "edition": 2023,
+  "date": 1668804243381,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Vinyl"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleepy_beauty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Thorn"
+    }
+  ],
+  "compiler": "Inamotion"
+}

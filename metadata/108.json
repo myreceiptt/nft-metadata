@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #108",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/108.png",
+  "dna": "f797e80ce1aa3eadc2c87bd0d5bc9900e22e83e1",
+  "edition": 108,
+  "date": 1668803623340,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Roller"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Rasta"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

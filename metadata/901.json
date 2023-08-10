@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #901",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/901.png",
+  "dna": "794afecebf5edc7f4f3d26dc7febd4e432065e73",
+  "edition": 901,
+  "date": 1668803880729,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coral_Reef"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cubes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leaf"
+    }
+  ],
+  "compiler": "Inamotion"
+}

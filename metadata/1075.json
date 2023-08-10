@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1075",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1075.png",
+  "dna": "bd5fc621826ff8a68c17f6e651acce713b1ef4d3",
+  "edition": 1075,
+  "date": 1668803935254,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stitch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Numb"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cheesee"
+    }
+  ],
+  "compiler": "Inamotion"
+}

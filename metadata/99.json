@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #99",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/99.png",
+  "dna": "7b87014f20fbf8a642b804e543e1bcb587e8c872",
+  "edition": 99,
+  "date": 1668803620403,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Collapse"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

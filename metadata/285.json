@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #285",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/285.png",
+  "dna": "2e57e7555da0433caa2dc1dad7b10c2de2267313",
+  "edition": 285,
+  "date": 1668803678861,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "4eyes_monster"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

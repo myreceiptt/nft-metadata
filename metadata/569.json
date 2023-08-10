@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #569",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/569.png",
+  "dna": "fd4f31bcec5e41bf72d5d6a28de9ef194d60eaa5",
+  "edition": 569,
+  "date": 1668803770079,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "Inamotion"
+}

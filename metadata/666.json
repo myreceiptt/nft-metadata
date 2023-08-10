@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #666",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/666.png",
+  "dna": "59719cf8f6ca77228ff761fd97c83b222bd9e9b2",
+  "edition": 666,
+  "date": 1668803803290,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frog_Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Snake_fruit"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #395",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/395.png",
+  "dna": "185f0179e0bf538c6becd2c6eaab0678ae86e954",
+  "edition": 395,
+  "date": 1668803713220,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cubes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

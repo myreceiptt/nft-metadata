@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #717",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/717.png",
+  "dna": "294712d501f415b0f730f4b80a747fba2908b5b0",
+  "edition": 717,
+  "date": 1668803819893,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Pink_glasses"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Nest"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #509",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/509.png",
+  "dna": "32d7c8a7a3fe1cef0d910e1c9327a0209567a68a",
+  "edition": 509,
+  "date": 1668803750471,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stitch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lovely"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leaf"
+    }
+  ],
+  "compiler": "Inamotion"
+}

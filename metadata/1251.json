@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1251",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1251.png",
+  "dna": "a2d531c9cb09024fc624cf3a78e489c7ad19dc70",
+  "edition": 1251,
+  "date": 1668803991033,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Vinyl"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Football"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue_shirt"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #482",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/482.png",
+  "dna": "061e13a50607af84899f5557d85da16f8e153bc9",
+  "edition": 482,
+  "date": 1668803741215,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butter"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "Inamotion"
+}

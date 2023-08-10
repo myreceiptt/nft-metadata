@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #811",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/811.png",
+  "dna": "9a72fc88d0d19f5714780b21a2a7e205583df485",
+  "edition": 811,
+  "date": 1668803850822,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Magic_lamp"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Nemo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Coal"
+    }
+  ],
+  "compiler": "Inamotion"
+}

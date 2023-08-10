@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #106",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/106.png",
+  "dna": "f0f8d6ab2ad870ec659a9b87188c7485a1120983",
+  "edition": 106,
+  "date": 1668803622777,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Pink_glasses"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fur"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ice_cream"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue_shirt"
+    }
+  ],
+  "compiler": "Inamotion"
+}

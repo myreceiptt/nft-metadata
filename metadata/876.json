@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #876",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/876.png",
+  "dna": "986ab82ffac31cdb07868ded6a12a999839dd211",
+  "edition": 876,
+  "date": 1668803872565,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Noodle_Bowl"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

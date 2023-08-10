@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1150",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1150.png",
+  "dna": "fefe46dc225662e4c6b14219686ed5a36db9bd50",
+  "edition": 1150,
+  "date": 1668803959113,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jelly_Fish"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fur"
+    }
+  ],
+  "compiler": "Inamotion"
+}

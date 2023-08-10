@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2009",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2009.png",
+  "dna": "dbab7eb21ff20694e79328a8c6e8b2d9fca4cdac",
+  "edition": 2009,
+  "date": 1668804238417,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Barb_wire"
+    }
+  ],
+  "compiler": "Inamotion"
+}

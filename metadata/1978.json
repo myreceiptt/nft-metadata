@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1978",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1978.png",
+  "dna": "6636f728aa42f183973d34a8a226f7f121b20b74",
+  "edition": 1978,
+  "date": 1668804227144,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Pop_square"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Whale_Tatoo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Marmer"
+    }
+  ],
+  "compiler": "Inamotion"
+}

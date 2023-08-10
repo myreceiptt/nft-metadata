@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #787",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/787.png",
+  "dna": "29e08c3edca4b001ca230e9cf0e03f8b32d7c02d",
+  "edition": 787,
+  "date": 1668803843344,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Lemon_soda"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Snake_fruit"
+    }
+  ],
+  "compiler": "Inamotion"
+}

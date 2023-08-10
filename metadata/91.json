@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #91",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/91.png",
+  "dna": "5f13565406bf71e13a37b172bb91d587a15c6347",
+  "edition": 91,
+  "date": 1668803618069,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Barb_wire"
+    }
+  ],
+  "compiler": "Inamotion"
+}

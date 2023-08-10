@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #460",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/460.png",
+  "dna": "918d5a9b37bdd621c129056ff7863713976bb97d",
+  "edition": 460,
+  "date": 1668803734405,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scratch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Toxicated"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

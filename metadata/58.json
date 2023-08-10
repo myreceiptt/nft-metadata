@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #58",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/58.png",
+  "dna": "22086877283f1990c0ce36c73d00ff4a2826ea1d",
+  "edition": 58,
+  "date": 1668803606379,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Army_tatoo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Football"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "NewBananowNov2022_0001s_0022_sweater"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1990",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1990.png",
+  "dna": "8981ca34ce5483936820751d566ae08b4d4d405a",
+  "edition": 1990,
+  "date": 1668804231529,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Muscle"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #501",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/501.png",
+  "dna": "67059d59bf0d8639d172a670be575127e2c4467c",
+  "edition": 501,
+  "date": 1668803747532,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Astronaut"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

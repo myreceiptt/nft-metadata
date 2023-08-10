@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #357",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/357.png",
+  "dna": "4a3f249a25a971eb09279d4e46f32e407a22c7c1",
+  "edition": 357,
+  "date": 1668803701310,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Pop_square"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray_Agate"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Seduce"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Octopus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

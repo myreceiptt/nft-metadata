@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #921",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/921.png",
+  "dna": "9d1a646d47b2609e820c9e6a56f28a13fb0d2176",
+  "edition": 921,
+  "date": 1668803887472,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "marble"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Thorn"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #214",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/214.png",
+  "dna": "4b37f21f49629b34d031420d01808ceff2d4226b",
+  "edition": 214,
+  "date": 1668803656502,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Lemon_soda"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Handcuff"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fur"
+    }
+  ],
+  "compiler": "Inamotion"
+}

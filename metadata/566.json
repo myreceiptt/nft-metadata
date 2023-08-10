@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #566",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/566.png",
+  "dna": "e0708bea63ce45185415a471f15d2939aa91af9c",
+  "edition": 566,
+  "date": 1668803769109,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "marble"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lovely"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

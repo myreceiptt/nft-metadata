@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1720",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1720.png",
+  "dna": "42cab49d3f03922cf8751ce056836881767e9eff",
+  "edition": 1720,
+  "date": 1668804143011,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Games"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Taucan"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

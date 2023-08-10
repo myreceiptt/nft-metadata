@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2320",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2320.png",
+  "dna": "483b4700d37e2bd60671827e57404da30ca99891",
+  "edition": 2320,
+  "date": 1668804356449,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "NewBananowNov2022_0002s_0014_toxicated"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Snake_fruit"
+    }
+  ],
+  "compiler": "Inamotion"
+}

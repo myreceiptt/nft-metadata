@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #551",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/551.png",
+  "dna": "028b123ff9226a9bf4b56b17d330165c48df5eec",
+  "edition": 551,
+  "date": 1668803764119,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Spies"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wood"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Marmer"
+    }
+  ],
+  "compiler": "Inamotion"
+}

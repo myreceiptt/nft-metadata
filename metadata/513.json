@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #513",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/513.png",
+  "dna": "f18aafdc967175aed27b5baf601fdc32ce9c7d39",
+  "edition": 513,
+  "date": 1668803751578,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleepy_beauty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butter"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

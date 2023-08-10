@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1941",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1941.png",
+  "dna": "eccf7d6b864bd94d4fe3472f35745d6373f158bb",
+  "edition": 1941,
+  "date": 1668804215225,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glitch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cheesee"
+    }
+  ],
+  "compiler": "Inamotion"
+}

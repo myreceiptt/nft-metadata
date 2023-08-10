@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2245",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2245.png",
+  "dna": "717f432676cd1a0d1d82fdffac77aec329b3ec0b",
+  "edition": 2245,
+  "date": 1668804330298,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleepy_beauty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Glow"
+    }
+  ],
+  "compiler": "Inamotion"
+}

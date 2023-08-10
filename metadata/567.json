@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #567",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/567.png",
+  "dna": "acff8a430d284fccf173138cf56722ad503ec752",
+  "edition": 567,
+  "date": 1668803769466,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Lemon_soda"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Ping_Pong"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Games"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Football"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

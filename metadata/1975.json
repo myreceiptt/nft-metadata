@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1975",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1975.png",
+  "dna": "cee4c853d7a306cf27ad9e611912586c2ee583d1",
+  "edition": 1975,
+  "date": 1668804226260,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Roller"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Frog_Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

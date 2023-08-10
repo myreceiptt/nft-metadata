@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2216",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2216.png",
+  "dna": "1eb3ccf2d9301ae65eefef881b7f66b422661289",
+  "edition": 2216,
+  "date": 1668804319314,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Wave_Rays"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jelly_Fish"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Glitch"
+    }
+  ],
+  "compiler": "Inamotion"
+}

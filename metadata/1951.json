@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1951",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1951.png",
+  "dna": "534f7c4efd40681fc321edb934d79ec13367553a",
+  "edition": 1951,
+  "date": 1668804218665,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pickle"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Volcano"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cheesee"
+    }
+  ],
+  "compiler": "Inamotion"
+}

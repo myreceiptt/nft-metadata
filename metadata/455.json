@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #455",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/455.png",
+  "dna": "06e5ba06722324db860f5923ece9145acefaec93",
+  "edition": 455,
+  "date": 1668803732814,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cubes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "NewBananowNov2022_0002s_0014_toxicated"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

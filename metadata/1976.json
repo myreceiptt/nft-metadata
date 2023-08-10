@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1976",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1976.png",
+  "dna": "bf4af74bb858ef0562f85c3e6c7d9675e179692b",
+  "edition": 1976,
+  "date": 1668804226545,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Amazed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Coal"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #234",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/234.png",
+  "dna": "1ec248729425c4ba3f8f15fb3093bd0f1598740e",
+  "edition": 234,
+  "date": 1668803662455,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stitch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

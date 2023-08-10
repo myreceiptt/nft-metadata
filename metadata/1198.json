@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1198",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1198.png",
+  "dna": "67ac5d5219b4da4077ab7822ea800ec90545f696",
+  "edition": 1198,
+  "date": 1668803974661,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Pop_square"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stitch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "NewBananowNov2022_0002s_0014_toxicated"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "Inamotion"
+}

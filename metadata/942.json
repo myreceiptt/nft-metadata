@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #942",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/942.png",
+  "dna": "2c06d96273ad7d758782c63fe8e37996cdf9a186",
+  "edition": 942,
+  "date": 1668803894080,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray_Agate"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Numb"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Coal"
+    }
+  ],
+  "compiler": "Inamotion"
+}

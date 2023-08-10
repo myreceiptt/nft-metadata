@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2261",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2261.png",
+  "dna": "000a8f5e1b78c7bb305cc0b3b1fce3471d7c0a82",
+  "edition": 2261,
+  "date": 1668804335965,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ice_cream"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Octopus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

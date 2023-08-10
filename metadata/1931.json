@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1931",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1931.png",
+  "dna": "c47ab86779c4b71e52687c642e6223800fee8593",
+  "edition": 1931,
+  "date": 1668804211937,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Coal"
+    }
+  ],
+  "compiler": "Inamotion"
+}

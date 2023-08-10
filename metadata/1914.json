@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1914",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1914.png",
+  "dna": "13015d6e49e3e786d2945991644cde37a4274c29",
+  "edition": 1914,
+  "date": 1668804206675,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Lemon_soda"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Snake_fruit"
+    }
+  ],
+  "compiler": "Inamotion"
+}

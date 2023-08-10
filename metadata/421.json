@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #421",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/421.png",
+  "dna": "90f17e1cf6a62e46f85cd73c15bc9db432bf7999",
+  "edition": 421,
+  "date": 1668803721354,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coral_Reef"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fur"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Rasta"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leaf"
+    }
+  ],
+  "compiler": "Inamotion"
+}

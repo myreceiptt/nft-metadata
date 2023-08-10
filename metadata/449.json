@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #449",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/449.png",
+  "dna": "6ac8e86b59cfcfd40b75268fd7ca0688bcc6d838",
+  "edition": 449,
+  "date": 1668803730698,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Amazed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Glow"
+    }
+  ],
+  "compiler": "Inamotion"
+}

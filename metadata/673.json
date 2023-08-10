@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #673",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/673.png",
+  "dna": "4b5b422d252f104d0779a2fc2fae00cffbbd3b3a",
+  "edition": 673,
+  "date": 1668803805712,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cuckoo"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Abstract"
+    }
+  ],
+  "compiler": "Inamotion"
+}

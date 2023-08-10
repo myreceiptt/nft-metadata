@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #978",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/978.png",
+  "dna": "76a4acc69352b589b735e2f28dd32c2117751265",
+  "edition": 978,
+  "date": 1668803905455,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Ping_Pong"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sassy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

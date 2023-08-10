@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1215",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1215.png",
+  "dna": "4006945dc3ecfc204336d6f04b9d2ce178c6ce45",
+  "edition": 1215,
+  "date": 1668803979693,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jelly_Fish"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cool"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

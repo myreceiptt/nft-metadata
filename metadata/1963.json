@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1963",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1963.png",
+  "dna": "9195dc4486d7b893211ff1c6a383c3ad7daaa48c",
+  "edition": 1963,
+  "date": 1668804222335,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Pop_square"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jelly_Fish"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leaf"
+    }
+  ],
+  "compiler": "Inamotion"
+}

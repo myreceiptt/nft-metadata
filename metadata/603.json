@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #603",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/603.png",
+  "dna": "dd366731e9b82e9b4357fae4734e88995ab37b93",
+  "edition": 603,
+  "date": 1668803781183,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Astronaut"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lovely"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leaf"
+    }
+  ],
+  "compiler": "Inamotion"
+}

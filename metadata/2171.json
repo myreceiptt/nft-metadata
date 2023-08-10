@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2171",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2171.png",
+  "dna": "e4e65f1838a91c8e76652a57cc77911a2c55eda2",
+  "edition": 2171,
+  "date": 1668804302560,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Spies"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Poisonous"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butterflies"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

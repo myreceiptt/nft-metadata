@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1935",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1935.png",
+  "dna": "a5a137a2441c48700e819fd0611ca946caddf83b",
+  "edition": 1935,
+  "date": 1668804213213,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue_shirt"
+    }
+  ],
+  "compiler": "Inamotion"
+}

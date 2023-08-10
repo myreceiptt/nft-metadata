@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #54",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/54.png",
+  "dna": "9acd030bea1a9216cd7f6d2c8c20906dbde34f52",
+  "edition": 54,
+  "date": 1668803605255,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Roller"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Poisonous"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Snake_fruit"
+    }
+  ],
+  "compiler": "Inamotion"
+}

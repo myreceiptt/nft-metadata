@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #752",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/752.png",
+  "dna": "3ace2eea773ecd8693f428dc586f380f903dec63",
+  "edition": 752,
+  "date": 1668803831249,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Retro_Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Abstract"
+    }
+  ],
+  "compiler": "Inamotion"
+}

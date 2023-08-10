@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #280",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/280.png",
+  "dna": "78b453094ddaa2142fa81b220aa257e8799c85bd",
+  "edition": 280,
+  "date": 1668803677287,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cheesee"
+    }
+  ],
+  "compiler": "Inamotion"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #48",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/48.png",
+  "dna": "4abd56931b11fb42cea68d1733c48213a1ed3898",
+  "edition": 48,
+  "date": 1668803603401,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Magic_lamp"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pillow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "4eyes_monster"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Marmer"
+    }
+  ],
+  "compiler": "Inamotion"
+}

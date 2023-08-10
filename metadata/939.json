@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #939",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/939.png",
+  "dna": "94619947e898559e7cd76c4f226f56276fbdf0f2",
+  "edition": 939,
+  "date": 1668803893235,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Line_wave"
+    }
+  ],
+  "compiler": "Inamotion"
+}

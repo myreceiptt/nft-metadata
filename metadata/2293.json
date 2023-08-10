@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2293",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2293.png",
+  "dna": "42c6754a2422e7b397120ad5bd8637554c17fefe",
+  "edition": 2293,
+  "date": 1668804347426,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jelly_Fish"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleepy_beauty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

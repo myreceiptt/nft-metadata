@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #9",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "f88b77db0783915ee3a306fe03cb557c876802f4",
+  "edition": 9,
+  "date": 1668803590442,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Football"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cheesee"
+    }
+  ],
+  "compiler": "Inamotion"
+}

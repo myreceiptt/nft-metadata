@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #631",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/631.png",
+  "dna": "8faf1ee7ac6c9f064b18de9ea69a2cbe4c146a85",
+  "edition": 631,
+  "date": 1668803790875,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Roller"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cilok"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Muscle"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Poisonous"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Marmer"
+    }
+  ],
+  "compiler": "Inamotion"
+}

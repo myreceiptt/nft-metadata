@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1999",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1999.png",
+  "dna": "273e101b6fdf0159338cbd4db81c083c49eefbd0",
+  "edition": 1999,
+  "date": 1668804235155,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Purple_mood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Takraw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cutted"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Aha"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cuckoo"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "NewBananowNov2022_0001s_0022_sweater"
+    }
+  ],
+  "compiler": "Inamotion"
+}

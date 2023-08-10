@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1959",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1959.png",
+  "dna": "63830e2618e8e107c80ace01a7670bc08794a052",
+  "edition": 1959,
+  "date": 1668804220985,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Roller"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cubes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Thorn"
+    }
+  ],
+  "compiler": "Inamotion"
+}

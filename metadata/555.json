@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #555",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/555.png",
+  "dna": "41dc36750c3fbf3b655dcbfea4dfe45a27de4a84",
+  "edition": 555,
+  "date": 1668803765357,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Pop_square"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stitch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyclop"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

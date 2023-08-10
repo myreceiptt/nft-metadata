@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #928",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/928.png",
+  "dna": "f26d53222c635580509db9a1093e9b1540b6e54b",
+  "edition": 928,
+  "date": 1668803889695,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pager"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cutted"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butterflies"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Predator"
+    }
+  ],
+  "compiler": "Inamotion"
+}

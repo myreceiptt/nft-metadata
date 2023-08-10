@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #648",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/648.png",
+  "dna": "c25faf22cfd71211a1c4f90571491bba3ee427b5",
+  "edition": 648,
+  "date": 1668803797449,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Ping_Pong"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Games"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cool"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tennis"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

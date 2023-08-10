@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1906",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1906.png",
+  "dna": "8b1418c3466d82a4908bf1594dcdeebb1b5fa9df",
+  "edition": 1906,
+  "date": 1668804203579,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Spies"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleepy_beauty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cuckoo"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

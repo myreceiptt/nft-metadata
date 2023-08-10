@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1811",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1811.png",
+  "dna": "8f3c90fed97d7a603d0c22e2e4da4935c5f10002",
+  "edition": 1811,
+  "date": 1668804171601,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Feather"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Rasta"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

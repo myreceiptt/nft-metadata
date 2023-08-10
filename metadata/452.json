@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #452",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/452.png",
+  "dna": "c31c5684d17792d0610b1415a163bd9bdaf1122d",
+  "edition": 452,
+  "date": 1668803731897,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Wave_Rays"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Noodle_Bowl"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black_Gold"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Amazed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ice_cream"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Jeans"
+    }
+  ],
+  "compiler": "Inamotion"
+}

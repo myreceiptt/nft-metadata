@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2120",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2120.png",
+  "dna": "438b3aa6fff5de4fb2d1491e37a47fe2bf532dfd",
+  "edition": 2120,
+  "date": 1668804283404,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Paper_bird"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Noodle_Bowl"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Thorn"
+    }
+  ],
+  "compiler": "Inamotion"
+}

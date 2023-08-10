@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #866",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/866.png",
+  "dna": "f1c0d6772003406ae0af4fc631bcf3acd75796db",
+  "edition": 866,
+  "date": 1668803869445,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Spies"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Noodle_Bowl"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stitch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Poisonous"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rope"
+    }
+  ],
+  "compiler": "Inamotion"
+}

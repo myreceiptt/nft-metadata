@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #893",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/893.png",
+  "dna": "71ab93c2590aadac53da11541a1d2fe1954f0ff8",
+  "edition": 893,
+  "date": 1668803878052,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue_Iron"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Aha"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Football"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Thorn"
+    }
+  ],
+  "compiler": "Inamotion"
+}

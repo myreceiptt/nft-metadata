@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #35",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/35.png",
+  "dna": "30390efc8cbc4bcdb277ac2551ba447d8f0cd7f8",
+  "edition": 35,
+  "date": 1668803599093,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Baloon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Magic_lamp"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "Inamotion"
+}

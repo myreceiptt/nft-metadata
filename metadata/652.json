@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #652",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/652.png",
+  "dna": "a4b905e102a39a9f2ca2806d3a4226b14b84181e",
+  "edition": 652,
+  "date": 1668803798537,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Astronaut"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lovely"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue_shirt"
+    }
+  ],
+  "compiler": "Inamotion"
+}

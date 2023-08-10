@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #950",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/950.png",
+  "dna": "f3f4096184615177eb6e01ccfc738d89a7291af3",
+  "edition": 950,
+  "date": 1668803896969,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Vinyl"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cassette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scatter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rasta"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

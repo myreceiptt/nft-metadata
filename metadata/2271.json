@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #2271",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/2271.png",
+  "dna": "85c0560bfa4aa93ffd64559f50f7901c35687d1b",
+  "edition": 2271,
+  "date": 1668804339412,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Bright_day"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Magic_lamp"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wood"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Amazed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butterflies"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Barb_wire"
+    }
+  ],
+  "compiler": "Inamotion"
+}

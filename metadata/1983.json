@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #1983",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/1983.png",
+  "dna": "43b72c5a8048a71d88bd2be7a89dcad9d56feba6",
+  "edition": 1983,
+  "date": 1668804228747,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Roller"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Noodle_Bowl"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scratch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyclop"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rasta"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Machine"
+    }
+  ],
+  "compiler": "Inamotion"
+}

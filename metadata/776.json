@@ -1,0 +1,36 @@
+{
+  "name": "Bananow #776",
+  "description": "Bananow Community Nft Project",
+  "image": "ipfs://NewUriToReplace/776.png",
+  "dna": "b5dd48b5747b454d42cdddaddeb7c7b57ed2fd41",
+  "edition": 776,
+  "date": 1668803839455,
+  "studio": "Inamotion",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Radio_Tape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scratch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Butter"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue_shirt"
+    }
+  ],
+  "compiler": "Inamotion"
+}
