@@ -10,7 +10,7 @@
 - 📫 &nbsp; Don't try to reach me.
 - ⚡ &nbsp; Fun fact: [The King's NFTs project](https://iqraa.straight-line.org/the-kings-nfts/)
 
-> Here are some ideas to get you started:
+> Here are some ideas to get you started: Download, edit, and publish it!
 
 > Regards
 > 

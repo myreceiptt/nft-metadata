@@ -1,11 +1,11 @@
 {
-  "name": "Bananow #788",
-  "description": "Bananow Community Nft Project",
+  "name": "NOTA's NFT #788",
+  "description": "NOTA's NFTs is a sample of NFTs collection metadata. Change and use it as you need it.",
   "image": "ipfs://NewUriToReplace/788.png",
   "dna": "4ceb87d0c65808c81c763ab6977af6ed782aef06",
   "edition": 788,
   "date": 1668803843653,
-  "studio": "Inamotion",
+  "studio": "BANANOW.LAND",
   "attributes": [
     {
       "trait_type": "Environment",
