@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Lemon_soda"
+      "value": "Lemon Soda"
     },
     {
       "trait_type": "Accessories",
-      "value": "Ping_Pong"
+      "value": "Ping Pong"
     },
     {
       "trait_type": "Body",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sleepy_beauty"
+      "value": "Sleepy Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Line_wave"
+      "value": "Line Wave"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

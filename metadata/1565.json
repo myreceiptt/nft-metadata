@@ -9,15 +9,15 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Paper_bird"
+      "value": "Paper Bird"
     },
     {
       "trait_type": "Accessories",
-      "value": "Coral_Reef"
+      "value": "Coral Reef"
     },
     {
       "trait_type": "Body",
-      "value": "Black_Gold"
+      "value": "Black Gold"
     },
     {
       "trait_type": "Face",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "NewBananowNov2022_0001s_0022_sweater"
+      "value": "Sweater"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

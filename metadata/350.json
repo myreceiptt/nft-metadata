@@ -9,19 +9,19 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Wave_Rays"
+      "value": "Wave Rays"
     },
     {
       "trait_type": "Accessories",
-      "value": "Ping_Pong"
+      "value": "Ping Pong"
     },
     {
       "trait_type": "Body",
-      "value": "Bee_Hive"
+      "value": "Bee Hive"
     },
     {
       "trait_type": "Face",
-      "value": "Sleepy_beauty"
+      "value": "Sleepy Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -32,5 +32,5 @@
       "value": "Machine"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

@@ -9,15 +9,15 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Paper_bird"
+      "value": "Paper Bird"
     },
     {
       "trait_type": "Accessories",
-      "value": "Coral_Reef"
+      "value": "Coral Reef"
     },
     {
       "trait_type": "Body",
-      "value": "Army_tatoo"
+      "value": "Army Tatoo"
     },
     {
       "trait_type": "Face",
@@ -32,5 +32,5 @@
       "value": "Machine"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

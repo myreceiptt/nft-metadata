@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Wave_Rays"
+      "value": "Wave Rays"
     },
     {
       "trait_type": "Accessories",
@@ -25,12 +25,12 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Ice_cream"
+      "value": "Ice Cream"
     },
     {
       "trait_type": "Skin",
       "value": "Abstract"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

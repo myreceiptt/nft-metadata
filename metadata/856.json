@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Blue_Iron"
+      "value": "Blue Iron"
     },
     {
       "trait_type": "Face",
@@ -25,12 +25,12 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Ice_cream"
+      "value": "Ice Cream"
     },
     {
       "trait_type": "Skin",
-      "value": "Barb_wire"
+      "value": "Barb Wire"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

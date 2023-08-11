@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Lemon_soda"
+      "value": "Lemon Soda"
     },
     {
       "trait_type": "Accessories",
-      "value": "Magic_lamp"
+      "value": "Magic Lamp"
     },
     {
       "trait_type": "Body",
@@ -25,12 +25,12 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Ice_cream"
+      "value": "Ice Cream"
     },
     {
       "trait_type": "Skin",
       "value": "Cactus"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

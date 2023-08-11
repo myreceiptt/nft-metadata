@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Purple_mood"
+      "value": "Purple Mood"
     },
     {
       "trait_type": "Accessories",
-      "value": "Radio_Tape"
+      "value": "Radio Tape"
     },
     {
       "trait_type": "Body",
@@ -32,5 +32,5 @@
       "value": "Muscle"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

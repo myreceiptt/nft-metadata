@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Pop_square"
+      "value": "Pop Square"
     },
     {
       "trait_type": "Accessories",
-      "value": "Noodle_Bowl"
+      "value": "Noodle Bowl"
     },
     {
       "trait_type": "Body",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Barb_wire"
+      "value": "Barb Wire"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

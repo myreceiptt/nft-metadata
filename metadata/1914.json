@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Lemon_soda"
+      "value": "Lemon Soda"
     },
     {
       "trait_type": "Accessories",
-      "value": "Radio_Tape"
+      "value": "Radio Tape"
     },
     {
       "trait_type": "Body",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Snake_fruit"
+      "value": "Snake Fruit"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

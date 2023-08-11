@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Paper_bird"
+      "value": "Paper Bird"
     },
     {
       "trait_type": "Accessories",
-      "value": "Radio_Tape"
+      "value": "Radio Tape"
     },
     {
       "trait_type": "Body",
@@ -21,16 +21,16 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sleepy_beauty"
+      "value": "Sleepy Beauty"
     },
     {
       "trait_type": "Headwear",
-      "value": "Ice_cream"
+      "value": "Ice Cream"
     },
     {
       "trait_type": "Skin",
       "value": "Thorn"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

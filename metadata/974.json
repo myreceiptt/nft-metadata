@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Bright_day"
+      "value": "Bright Day"
     },
     {
       "trait_type": "Accessories",
-      "value": "Ping_Pong"
+      "value": "Ping Pong"
     },
     {
       "trait_type": "Body",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Blue_shirt"
+      "value": "Blue Shirt"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

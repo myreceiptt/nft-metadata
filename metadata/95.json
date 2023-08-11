@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Pink_glasses"
+      "value": "Pink Glasses"
     },
     {
       "trait_type": "Accessories",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Grunge_Pop"
+      "value": "Grunge Pop"
     },
     {
       "trait_type": "Face",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Blue_shirt"
+      "value": "Blue Shirt"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

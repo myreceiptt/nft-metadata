@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Bright_day"
+      "value": "Bright Day"
     },
     {
       "trait_type": "Accessories",
-      "value": "Radio_Tape"
+      "value": "Radio Tape"
     },
     {
       "trait_type": "Body",
@@ -32,5 +32,5 @@
       "value": "Rope"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

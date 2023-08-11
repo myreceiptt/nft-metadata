@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Lemon_soda"
+      "value": "Lemon Soda"
     },
     {
       "trait_type": "Accessories",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sleepy_beauty"
+      "value": "Sleepy Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Snake_fruit"
+      "value": "Snake Fruit"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Paper_bird"
+      "value": "Paper Bird"
     },
     {
       "trait_type": "Accessories",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Army_tatoo"
+      "value": "Army Tatoo"
     },
     {
       "trait_type": "Face",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Line_wave"
+      "value": "Line Wave"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

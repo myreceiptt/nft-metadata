@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "marble"
+      "value": "Marble"
     },
     {
       "trait_type": "Face",
@@ -32,5 +32,5 @@
       "value": "Thorn"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

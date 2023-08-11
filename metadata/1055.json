@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Accessories",
-      "value": "Ping_Pong"
+      "value": "Ping Pong"
     },
     {
       "trait_type": "Body",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "NewBananowNov2022_0002s_0014_toxicated"
+      "value": "Toxicated"
     },
     {
       "trait_type": "Headwear",
@@ -32,5 +32,5 @@
       "value": "Coal"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

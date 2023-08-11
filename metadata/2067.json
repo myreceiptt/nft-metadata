@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "marble"
+      "value": "Marble"
     },
     {
       "trait_type": "Face",
-      "value": "Sleepy_beauty"
+      "value": "Sleepy Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Snake_fruit"
+      "value": "Snake Fruit"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

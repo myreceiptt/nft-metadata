@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "Jelly_Fish"
+      "value": "Jelly Fish"
     },
     {
       "trait_type": "Face",
-      "value": "Sleeping_beauty"
+      "value": "Sleeping Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -32,5 +32,5 @@
       "value": "Machine"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

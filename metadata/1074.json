@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Bright_day"
+      "value": "Bright Day"
     },
     {
       "trait_type": "Accessories",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "Gray_Agate"
+      "value": "Gray Agate"
     },
     {
       "trait_type": "Face",
-      "value": "Sleeping_beauty"
+      "value": "Sleeping Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -32,5 +32,5 @@
       "value": "Leaf"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

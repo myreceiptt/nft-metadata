@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "marble"
+      "value": "Marble"
     },
     {
       "trait_type": "Face",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Blue_shirt"
+      "value": "Blue Shirt"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

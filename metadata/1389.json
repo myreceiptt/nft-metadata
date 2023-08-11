@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Paper_bird"
+      "value": "Paper Bird"
     },
     {
       "trait_type": "Accessories",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sleeping_beauty"
+      "value": "Sleeping Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Blue_shirt"
+      "value": "Blue Shirt"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

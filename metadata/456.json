@@ -9,15 +9,15 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Wave_Rays"
+      "value": "Wave Rays"
     },
     {
       "trait_type": "Accessories",
-      "value": "Noodle_Bowl"
+      "value": "Noodle Bowl"
     },
     {
       "trait_type": "Body",
-      "value": "Grunge_Pop"
+      "value": "Grunge Pop"
     },
     {
       "trait_type": "Face",
@@ -32,5 +32,5 @@
       "value": "Jeans"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

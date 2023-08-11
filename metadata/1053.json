@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Vintage_geometric"
+      "value": "Vintage Geometric"
     },
     {
       "trait_type": "Accessories",
-      "value": "Noodle_Bowl"
+      "value": "Noodle Bowl"
     },
     {
       "trait_type": "Body",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Blue_shirt"
+      "value": "Blue Shirt"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

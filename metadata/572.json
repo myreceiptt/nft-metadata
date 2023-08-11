@@ -9,19 +9,19 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Bright_day"
+      "value": "Bright Day"
     },
     {
       "trait_type": "Accessories",
-      "value": "Noodle_Bowl"
+      "value": "Noodle Bowl"
     },
     {
       "trait_type": "Body",
-      "value": "Bee_Hive"
+      "value": "Bee Hive"
     },
     {
       "trait_type": "Face",
-      "value": "Sleepy_beauty"
+      "value": "Sleepy Beauty"
     },
     {
       "trait_type": "Headwear",
@@ -32,5 +32,5 @@
       "value": "Coal"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

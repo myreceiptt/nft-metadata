@@ -9,15 +9,15 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Purple_mood"
+      "value": "Purple Mood"
     },
     {
       "trait_type": "Accessories",
-      "value": "Radio_Tape"
+      "value": "Radio Tape"
     },
     {
       "trait_type": "Body",
-      "value": "Jelly_Fish"
+      "value": "Jelly Fish"
     },
     {
       "trait_type": "Face",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Blue_shirt"
+      "value": "Blue Shirt"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

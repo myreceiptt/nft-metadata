@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "Accessories",
-      "value": "Radio_Tape"
+      "value": "Radio Tape"
     },
     {
       "trait_type": "Body",
-      "value": "Dino_Tatoo"
+      "value": "Dino Tatoo"
     },
     {
       "trait_type": "Face",
@@ -32,5 +32,5 @@
       "value": "Predator"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

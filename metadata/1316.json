@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Purple_mood"
+      "value": "Purple Mood"
     },
     {
       "trait_type": "Accessories",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Frog_Eyes"
+      "value": "Frog Eyes"
     },
     {
       "trait_type": "Face",
@@ -25,12 +25,12 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Ice_cream"
+      "value": "Ice Cream"
     },
     {
       "trait_type": "Skin",
       "value": "Cactus"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

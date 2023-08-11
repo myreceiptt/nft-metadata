@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Bright_day"
+      "value": "Bright Day"
     },
     {
       "trait_type": "Accessories",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Frog_Eyes"
+      "value": "Frog Eyes"
     },
     {
       "trait_type": "Face",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Snake_fruit"
+      "value": "Snake Fruit"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

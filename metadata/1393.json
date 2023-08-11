@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Environment",
-      "value": "Purple_mood"
+      "value": "Purple Mood"
     },
     {
       "trait_type": "Accessories",
@@ -29,8 +29,8 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Snake_fruit"
+      "value": "Snake Fruit"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }

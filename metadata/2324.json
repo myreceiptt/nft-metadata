@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "Accessories",
-      "value": "Magic_lamp"
+      "value": "Magic Lamp"
     },
     {
       "trait_type": "Body",
-      "value": "Gray_Agate"
+      "value": "Gray Agate"
     },
     {
       "trait_type": "Face",
-      "value": "4eyes_monster"
+      "value": "4 Eyes Monster"
     },
     {
       "trait_type": "Headwear",
@@ -32,5 +32,5 @@
       "value": "Cheesee"
     }
   ],
-  "compiler": "Inamotion"
+  "compiler": "Prof. NOTA"
 }
